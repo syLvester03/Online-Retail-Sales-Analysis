@@ -1,0 +1,4 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,IsCancellation
+A563185,B,ADJUST BAD DEBT,1,2011-08-12 14:50:00,11062.06,,United Kingdom,False
+A563186,B,ADJUST BAD DEBT,1,2011-08-12 14:51:00,11062.06,,United Kingdom,False
+A563187,B,ADJUST BAD DEBT,1,2011-08-12 14:52:00,11062.06,,United Kingdom,False
